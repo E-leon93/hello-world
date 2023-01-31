@@ -10,3 +10,5 @@ elif score<60:
 
 else:
     print('划水大王')
+    
+print('git revise test')
